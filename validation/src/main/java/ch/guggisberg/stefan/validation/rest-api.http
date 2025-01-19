@@ -1,0 +1,9 @@
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+"start" : "2007-12-03",
+"end"   :"2007-12-04"
+}
+
+###
